@@ -1,0 +1,4 @@
+dialog(char1, 누구세요, 3)
+dialog(char2, 난 A야, 3)
+dialog(char1, 무슨 사건이 발생합니다., 3)
+dialog(char2, 자세히 알려주세요, 3)

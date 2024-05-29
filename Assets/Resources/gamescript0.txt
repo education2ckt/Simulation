@@ -1,0 +1,4 @@
+wait(3)
+text(새로운 시대입니다., 3)
+text(행운을 빌어요., 3)
+show(false)
